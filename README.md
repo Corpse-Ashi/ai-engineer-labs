@@ -1,2 +1,2 @@
-# ai-engineer-labs
+# AI-engineer-labs
 My AI engineering practice labs
